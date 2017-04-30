@@ -3,3 +3,4 @@
 # 410_revision_a is refined with Canada mobile phone and some extra award information and slight modification
 # output folder is designed for placing pdf version of source editable resume file.
 # those pdf files are meant to distribute to employers.
+# reversion b fixed some typo and refined some words.
