@@ -5,3 +5,4 @@
 # those pdf files are meant to distribute to employers.
 # revison b fixed some typo and refined some words.
 # revision c only place ABAP at first place to target the SAP related jobs. And also change nodeJs to Node.JS
+# revision d only place js and sapui5 at front to target SAPUI5 jobs.
