@@ -3,4 +3,5 @@
 # 410_revision_a is refined with Canada mobile phone and some extra award information and slight modification
 # output folder is designed for placing pdf version of source editable resume file.
 # those pdf files are meant to distribute to employers.
-# reversion b fixed some typo and refined some words.
+# revison b fixed some typo and refined some words.
+# revision c only place ABAP at first place to target the SAP related jobs. And also change nodeJs to Node.JS
